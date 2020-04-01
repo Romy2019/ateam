@@ -1,6 +1,4 @@
-const con = require("./connection/connection");
-const middleware = ("./middleware/");
-//middleware
+
 
 const express = require('express');
 const path = require('path');
