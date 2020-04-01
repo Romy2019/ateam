@@ -39,3 +39,4 @@ $ npm install
 Running the project
 
 $ npm start
+$ run localhost:5000 in browser
